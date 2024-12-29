@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Douglas College\Winter 2023\2175-002 - Advanced Integrated Software Development\Labs\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
